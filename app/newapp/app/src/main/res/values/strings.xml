@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">new app</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Add Gasto</string>
+    <string name="tab_text_3">Ver Gasto</string>
+    <string name="tab_text_4">Add Fondo</string>
+    <string name="tab_text_5">Ver Fondo</string>
+    <string name="hello_blank_fragment" />
+
+
+</resources>
